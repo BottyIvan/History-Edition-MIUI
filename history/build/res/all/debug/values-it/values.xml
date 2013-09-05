@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/ivan/Scrivania/historyProject/history/src/main/res/values-it/strings -->
+    <string name="action_settings">Impostazioni</string>
+    <string name="app_name">Android History</string>
+    <string name="set_wallpaper">Imposta</string>
+
+</resources>

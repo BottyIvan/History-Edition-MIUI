@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_cupcake</item>
+        <item>wallpaper_donut</item>
+        <item>wallpaper_eclair</item>
+        <item>wallpaper_froyo</item>
+        <item>wallpaper_ginger</item>
+        <item>wallpaper_honey</item>
+        <item>wallpaper_ice_cream</item>
+        <item>wallpaper_jellybean</item>
+        <item>wallpaper_kitkat</item>
+    </string-array>
+
+
+    <string-array name="info" translatable="false">
+        <item>Android 1.5 aka Cupcake</item>
+        <item>Android 1.6 aka Donut</item>
+        <item>Android 2.0 aka Eclair</item>
+        <item>Android 2.2 aka Froyo</item>
+        <item>Android 2.3 aka Gingerbrad</item>
+        <item>Android 3.0 aka Honeycomb</item>
+        <item>Android 4.0 aka Ice Cream Sandwich</item>
+        <item>Android 4.1 aka Jelly Bean</item>
+        <item>Android 4.4 aka KitKat</item>
+    </string-array>
+</resources>
